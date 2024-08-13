@@ -54,7 +54,7 @@ const perguntas = [
             {
                 texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
                 afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
-            }onst caixaPrincipal = document.querySelector(".caixa-principal");
+            }const caixaPrincipal = document.querySelector(".caixa-principal");
 const caixaPerguntas = document.querySelector(".caixa-perguntas");
 const caixaAlternativas = document.querySelector(".caixa-alternativas");
 const caixaResultado = document.querySelector(".caixa-resultado");
